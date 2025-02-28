@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Ohana!
 
 💡 **Sobre mim:**  
 🎓 Formada em Análise e Desenvolvimento de sistemas
