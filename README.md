@@ -26,10 +26,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-000?style=for-the-badge&logo=streamlit)  
 
 
-## 📈 **Minhas Estatísticas no GitHub**
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula)  
-
 
 ## 📫 **Conecte-se Comigo**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ohana-oliveira-b70aaa251/)  
