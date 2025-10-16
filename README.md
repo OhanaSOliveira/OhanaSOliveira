@@ -1,8 +1,9 @@
 #  Olá, eu sou Ohana!
 
  **Sobre mim:**  
- Cientista de Dados em formação, finalizando minha pós-graduação nos próximos três meses.  
+ Pós graduada em ciência de dados.  
  Apaixonada por análise de dados, Machine Learning e soluções baseadas em IA.  
+ Traduzir dados em interfaces e gráficos de fácil interpretação é uma obra de arte a qual me dedico.
  Buscando uma oportunidade para atuar como Cientista de Dados e aplicar meu conhecimento na resolução de desafios reais.  
 
 
