@@ -144,7 +144,7 @@
 
 ---
 
-## 📊 Projetos em Destaque
+### 📚 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
@@ -158,7 +158,7 @@
 
 ---
 
-### **Estatísticas:**
+### 📈 **Estatísticas:**
 
 <p align="left">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=OhanaSOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
