@@ -142,6 +142,19 @@
 /> <br>
 
 
+---
+
+## 📊 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| [🎮 Video Games EDA](https://github.com/OhanaSOliveira/Video_games_sales_eda) | Análise exploratória de vendas de jogos | Python, Pandas, Seaborn |
+| [⚗️ Regressão PHB](https://github.com/OhanaSOliveira/RegressaoParaOtimizacaoDeProducaoDePHB-) | Otimização de produção de PHB com regressão | Python, Numpy, Matplotlib |
+| [🛍️ E-commerce Dashboard](https://github.com/OhanaSOliveira/EcommercePBI) | Dashboard de e-commerce com Power BI | Power BI |
+
+
+
+
 
 ---
 
