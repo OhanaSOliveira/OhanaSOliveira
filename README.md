@@ -2,7 +2,7 @@
 
 🕵️‍♀️ **`Data Scientist`** 🎲
 
- **About me: **  
+ **About me:**  
  * Postgraduate degree in Data Science.
  * Passionate about data analysis, Machine Learning, and AI-driven solutions.
  * I consider transforming data into clear, intuitive visual insights a form of art, one I’m fully dedicated to.
