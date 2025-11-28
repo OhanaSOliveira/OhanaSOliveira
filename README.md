@@ -1,17 +1,17 @@
 # 👩‍💻 Ohana Oliveira
 
-🕵️‍♀️ **`Cientista de dados`** 🎲
+🕵️‍♀️ **`Data Scientist`** 🎲
 
- **Sobre mim:**  
- * Pós graduada em ciência de dados.  
- * Apaixonada por análise de dados, Machine Learning e soluções baseadas em IA.  
- * Traduzir dados em interfaces e gráficos de fácil interpretação é uma obra de arte a qual me dedico.
- * Buscando uma oportunidade para atuar como Cientista de Dados e aplicar meu conhecimento na resolução de desafios reais.  
+ **About me: **  
+ * Postgraduate degree in Data Science.
+ * Passionate about data analysis, Machine Learning, and AI-driven solutions.
+ * I consider transforming data into clear, intuitive visual insights a form of art, one I’m fully dedicated to.
+ * Currently seeking an opportunity as a Data Scientist to apply my skills to real-world challenges.  
 
 ---
 
-### 👩‍💻 **Habilidades e Tecnologias:**
- **Linguagens:**  
+### 👩‍💻 **Skills and Technologies:**
+ **Languages:**  
 
 <img 
     align = "left"
@@ -51,7 +51,7 @@
 />  <br>
           
 
- **Bibliotecas:**  
+ **Libraries:**  
 
 <img 
     align = "left"
@@ -121,7 +121,7 @@
 <br>
 
 
- **Visualização de dados:**  
+ **Data Visualization:**  
 
 <img 
     align = "left"
@@ -144,14 +144,14 @@
 
 ---
 
-### 📚 Projetos em Destaque
+### 📚 Featured Projects:
 
-| Projeto | Descrição | Tecnologias |
+| Project | Description | Technologies |
 |----------|------------|--------------|
-| [🎮 Video Games EDA](https://github.com/OhanaSOliveira/Video_games_sales_eda) | Análise exploratória de vendas de jogos | Python, Pandas, Seaborn |
-| [⚗️ Regressão PHB](https://github.com/OhanaSOliveira/RegressaoParaOtimizacaoDeProducaoDePHB-) | Otimização de produção de PHB com regressão | Python, Numpy, Matplotlib |
-| [🛍️ E-commerce Dashboard](https://github.com/OhanaSOliveira/EcommercePBI) | Dashboard de e-commerce com Power BI | Power BI |
-| [:ship: Titanic Predict](https://github.com/OhanaSOliveira/TitanicPredict) | Código de Machine learning para predição | Python, Scikit-learn |
+| [🎮 Video Games EDA](https://github.com/OhanaSOliveira/Video_games_sales_eda) | Exploratory data analysis on video game sales | Python, Pandas, Seaborn |
+| [⚗️ PHB Regression](https://github.com/OhanaSOliveira/RegressaoParaOtimizacaoDeProducaoDePHB-) | Production optimization of PHB using regression models | Python, Numpy, Matplotlib |
+| [🛍️ E-commerce Dashboard](https://github.com/OhanaSOliveira/EcommercePBI) | Interactive e-commerce dashbord built with Power BI | Power BI |
+| [:ship: Titanic Predict](https://github.com/OhanaSOliveira/TitanicPredict) | Machine learning model for survival prediction | Python, Scikit-learn |
 
 
 
@@ -159,14 +159,14 @@
 
 ---
 
-### 📈 **Estatísticas:**
+### 📈 **Stats:**
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=OhanaSOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhanaSOliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=OhanaSOliveira&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhanaSOliveira&theme=tokyonight&layout=compact&custom_title=Technology:&langs_count=5"/>
 </p>
 
 ---
 
-**Conecte-se comigo:**  
+**Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ohana-oliveira-b70aaa251/)
